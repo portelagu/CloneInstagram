@@ -33,7 +33,7 @@ const FeedCard = () => {
 
                     {/* Imagem do post*/}
 
-                    <div className="w-full lg:max-h-[75vh] md:max-h-[70vh] sm:max-h-[65vh] max-h-[50vh] lg:h-[70vh] md:h-[60vh] sm:h-[50vh] h-[50vh] lg:min-h-[65vh] md:min-h-[55vh] sm:min-h-[50vh] min-h-[45vh] border border-gray-300 rounded overflow-hidden mb-3">
+                    <div className="w-full lg:max-h-[75vh] md:max-h-[70vh] sm:max-h-[65vh] max-h-[50vh] lg:h-[70vh] md:h-[60vh] sm:h-[50vh] h-[50vh] lg:min-h-[65vh] md:min-h-[55vh] sm:min-h-[50vh] min-h-[45vh]  border-gray-300 rounded overflow-hidden mb-3">
                         <img src={feed.postImg} alt={feed.caption} className="w-full h-full rounded object-cover" />
                     </div>
                     {/* ações do usuário */}

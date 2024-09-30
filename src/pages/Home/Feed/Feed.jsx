@@ -1,5 +1,6 @@
 import React from 'react';
 import TopNav from '../../../components/Header/TopNav/TopNav';
+import Stories from '../Stories/Stories';
 
 const Feed = () => {
     return (
@@ -10,6 +11,7 @@ const Feed = () => {
                     {/* Barra de navegação superior (para dispositivos menores) */}
                     <TopNav />
                     {/* Seção dos Stories */}
+                    <Stories />
                     {/* Seção do Feed */}
 
                     <div className="w-full h-auto flex items-center justify-center mt-6">

@@ -20,7 +20,6 @@ const Home = () => {
                 <Routes>
                     <Route exact path="/" element={<Feed />} />
 
-                    {/* Seção de perfil */}
                 </Routes>
             </div>
         </>

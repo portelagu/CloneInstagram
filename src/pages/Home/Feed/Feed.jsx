@@ -2,6 +2,8 @@ import React from 'react';
 import TopNav from '../../../components/Header/TopNav/TopNav';
 import Stories from '../Stories/Stories';
 import FeedCard from './FeedCard/FeedCard';
+import RecommendedUser from '../RecommendedUser/RecommendedUser'
+
 
 const Feed = () => {
     return (
@@ -24,6 +26,7 @@ const Feed = () => {
                 {/*Seção dos usuários recomendados */}
                 <div className="w-[25%] h-auto lg:block md:hidden sm:hidden hidden">
                     {/* */}
+                    <RecommendedUser />
                 </div>
             </div>
         </>

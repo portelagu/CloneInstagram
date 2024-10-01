@@ -1,4 +1,6 @@
-<img src="/src/assets/mockupDaTela.png" alt="Mockup do clone" do instagram>
+<div> <img src="/src/assets/mockupDaTela.png" alt="Mockup do clone" do instagram>
+</div>
+
 # Clone do Instagram
 
 Esta é uma tarefa desenvolvida no PROPROFISSÃO, onde o objetivo é desenvolver um clone do instagram para treinar e aprimorar os conceitos em React.

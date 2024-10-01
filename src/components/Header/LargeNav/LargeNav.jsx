@@ -9,7 +9,7 @@ import ReelsLogo from "../../../assets/navlogo/reel.png";
 import MessagesLogo from "../../../assets/navlogo/message.png";
 import NotificationsLogo from "../../../assets/navlogo/like.png";
 import CreateLogo from "../../../assets/navlogo/create.png";
-import SabrinaIcon from "../../../assets/navlogo/sabrina.png";
+import SabrinaIcon from "../../../assets/navlogo/Sabrina.png";
 import ThreadsLogo from "../../../assets/navlogo/threads.png";
 import MoreLogo from "../../../assets/navlogo/more.png";
 

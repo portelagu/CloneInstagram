@@ -4,7 +4,7 @@ import HomeLogo from "../../../../assets/navlogo/home.png";
 import SearchLogo from "../../../../assets/navlogo/search.png";
 import ReelsLogo from "../../../../assets/navlogo/reel.png";
 import CreateLogo from "../../../../assets/navlogo/create.png";
-import SabrinaIcon from "../../../../assets/navlogo/sabrina.png";
+import SabrinaIcon from "../../../../assets/navlogo/Sabrina.png";
 
 const MobileNav = () => {
 
